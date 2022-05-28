@@ -10,5 +10,5 @@ Given that they computed a database of probabilities for terms appearing in the 
 
                           𝑦 = 𝑎𝑟𝑔𝑚𝑎𝑥 𝑘 ϵ{𝑃𝑜𝑠𝑖𝑡𝑖𝑣𝑒, 𝑁𝑒𝑔𝑎𝑡𝑖𝑣𝑒} 𝑝(𝐶 𝑘 ) 𝑖 = 1 N 𝑝(𝑥 𝑖 | 𝐶 𝑘 )
 
-Libraries - **VaderSentiment **( for analysis)
+Libraries - **VaderSentiment** ( for analysis)
                              VADER means Valence Aware Dictionary and sEntiment Reasoner.VADER is a lexicon and rule-based feeling analysis instrument that is explicitly sensitive to suppositions communicated in web-based media. VADER utilizes a mix of lexical highlights (e.g., words) that are, for the most part, marked by their semantic direction as one or the other positive or negative. Thus, VADER not only tells about the Polarity score yet, in addition, it tells us concerning how positive or negative a conclusion is.
